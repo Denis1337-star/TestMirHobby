@@ -3,7 +3,8 @@
 ##  Обзор проекта
 
 Данный проект представляет собой систему управления отрядом (Party UI), реализованную в Unity с использованием архитектурного подхода **MVVM (Model–View–ViewModel)**.
-
+https://github.com/Denis1337-star/TestMirHobby/blob/main/Screenshot/PlayMod.png
+![WorldMap](Screenshot/PlayMod.png)
 Система позволяет:
 
 * выбирать персонажей
@@ -19,6 +20,8 @@
 * удобство взаимодействия
 
 ---
+## Геймплей
+https://github.com/Denis1337-star/TestMirHobby/blob/main/Screenshot/Gameplay_Video.mp4
 
 ##  Архитектура
 
