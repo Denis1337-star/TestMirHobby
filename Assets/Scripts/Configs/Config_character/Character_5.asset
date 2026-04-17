@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f73b370e30c96e64b8fee7da975976fa, type: 3}
+  m_Name: Character_5
+  m_EditorClassIdentifier: 
+  characterId: 5
+  characterName: Pesqal
+  partyPortrait: {fileID: 21300000, guid: 0a68750790fd3aa43a7176e365065a0e, type: 3}
+  bigPortrait: {fileID: 21300000, guid: 2c6fc804619789e42a20321604687571, type: 3}
+  hp: 130
+  armor: 10
+  abilities:
+  - {fileID: 11400000, guid: dbed74af8f23f96419ca8976fc563f9e, type: 2}
+  - {fileID: 11400000, guid: bf9b061d9f949d449a6521d5049ed73b, type: 2}
+  - {fileID: 11400000, guid: 57a85b460fcbd434197079955e3cfcef, type: 2}
+  - {fileID: 11400000, guid: 648aa8bb89138c342bce39007f0ff7bb, type: 2}
+  modifications:
+  - {fileID: 11400000, guid: 78cf3ed5f750f1646a9cb868fe144a89, type: 2}
+  - {fileID: 11400000, guid: 91728d57601a36e46951be37a0a94b58, type: 2}
+  - {fileID: 11400000, guid: 0c4a3f2426ea9a74a8dd93239b1a5853, type: 2}
+  - {fileID: 11400000, guid: b447c4c91f32ddc419dea27c17b9425c, type: 2}
+  - {fileID: 11400000, guid: 7d34ba74e2a4e734e9d348054d20cfa7, type: 2}
+  - {fileID: 11400000, guid: 1b2decd00f5d9a24b8529314b14f1b73, type: 2}
+  - {fileID: 11400000, guid: c6d7243f94b94f1488c1a942115c74fb, type: 2}
+  - {fileID: 11400000, guid: 8a2e82bf4e0817b40a1eab44f9a7dcdb, type: 2}

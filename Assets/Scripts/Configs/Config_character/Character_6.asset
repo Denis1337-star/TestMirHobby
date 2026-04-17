@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f73b370e30c96e64b8fee7da975976fa, type: 3}
+  m_Name: Character_6
+  m_EditorClassIdentifier: 
+  characterId: 6
+  characterName: Heinrix
+  partyPortrait: {fileID: 21300000, guid: 74e9a30d54dd5d6478c8eaebee1ab279, type: 3}
+  bigPortrait: {fileID: 21300000, guid: dffc78b32439b1846b2f6431aec83fb3, type: 3}
+  hp: 200
+  armor: 15
+  abilities:
+  - {fileID: 11400000, guid: dbed74af8f23f96419ca8976fc563f9e, type: 2}
+  - {fileID: 11400000, guid: bf9b061d9f949d449a6521d5049ed73b, type: 2}
+  - {fileID: 11400000, guid: 8b177f3c3d4083c4a8d4a9376afea264, type: 2}
+  - {fileID: 11400000, guid: f262688cce50bf845969c9a2e1a7cc25, type: 2}
+  - {fileID: 11400000, guid: 63ff6686a115d3648ad3152fffa555ba, type: 2}
+  - {fileID: 11400000, guid: c66fbd9a15e63d24d82d7bdb050141ce, type: 2}
+  - {fileID: 11400000, guid: 57a85b460fcbd434197079955e3cfcef, type: 2}
+  - {fileID: 11400000, guid: c1c97f1f5a8a3a44ba11afd5a7a95d87, type: 2}
+  - {fileID: 11400000, guid: 648aa8bb89138c342bce39007f0ff7bb, type: 2}
+  - {fileID: 11400000, guid: 4d1eb982bd597c942b686e958ac83d9d, type: 2}
+  - {fileID: 11400000, guid: e6df2fbf1bb7f88488427b4229f38dac, type: 2}
+  - {fileID: 11400000, guid: cac34443a1bd3664f899a35e588ab5f5, type: 2}
+  - {fileID: 11400000, guid: 479368d39ab65aa4f887a2d53224038c, type: 2}
+  - {fileID: 11400000, guid: e64bc00ba81fbce45ac78c62b710b6ad, type: 2}
+  modifications:
+  - {fileID: 11400000, guid: 2a7e4447984593542a0cd33c46f00172, type: 2}
+  - {fileID: 11400000, guid: 2452df31772bbe247bfe1e4ce8bed885, type: 2}
+  - {fileID: 11400000, guid: b9d20469412aab74c94677b7f49cf0f0, type: 2}
+  - {fileID: 11400000, guid: 8a2e82bf4e0817b40a1eab44f9a7dcdb, type: 2}
+  - {fileID: 11400000, guid: c6d7243f94b94f1488c1a942115c74fb, type: 2}
+  - {fileID: 11400000, guid: 1b2decd00f5d9a24b8529314b14f1b73, type: 2}
+  - {fileID: 11400000, guid: 7d34ba74e2a4e734e9d348054d20cfa7, type: 2}
+  - {fileID: 11400000, guid: b447c4c91f32ddc419dea27c17b9425c, type: 2}
+  - {fileID: 11400000, guid: 0c4a3f2426ea9a74a8dd93239b1a5853, type: 2}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f73b370e30c96e64b8fee7da975976fa, type: 3}
+  m_Name: Character_4
+  m_EditorClassIdentifier: 
+  characterId: 4
+  characterName: Idira
+  partyPortrait: {fileID: 21300000, guid: 39ed70786a4932449bc5b7878309e719, type: 3}
+  bigPortrait: {fileID: 21300000, guid: c2886b3fa0f7f794fad8bbc04b572e41, type: 3}
+  hp: 75
+  armor: 15
+  abilities: []
+  modifications:
+  - {fileID: 11400000, guid: 2a7e4447984593542a0cd33c46f00172, type: 2}
+  - {fileID: 11400000, guid: 2452df31772bbe247bfe1e4ce8bed885, type: 2}
+  - {fileID: 11400000, guid: b9d20469412aab74c94677b7f49cf0f0, type: 2}
+  - {fileID: 11400000, guid: 8a2e82bf4e0817b40a1eab44f9a7dcdb, type: 2}
+  - {fileID: 11400000, guid: c6d7243f94b94f1488c1a942115c74fb, type: 2}
+  - {fileID: 11400000, guid: 1b2decd00f5d9a24b8529314b14f1b73, type: 2}
